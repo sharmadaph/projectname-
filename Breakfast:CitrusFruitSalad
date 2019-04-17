@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+<p>
+<h1>Citrus Fruit Salad</h1>
+<h4> Citrus fruit salad, perfect for winter citrus, pink grapefruit and navel oranges, sweetened with honey, seasoned with lime juice and cardamom.The cardamom provides a lovely accent to the honey-sweetened citrus segments.
+</h4>
+<img src="https://www.thespruceeats.com/thmb/jSUf_k7-DWWG2TzoBur8kdHcV1M=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vanillacitrusfruitsalad-56b4a9e43df78c0b1353d319.jpg" alt="Pumpkin Muffins">
+<h4>Ingredients</h4>
+<h5>
+<ul>
+<li>2 large navel oranges</li>
+<li>1 large grapefruit</li>
+<li>2 cups pineapple (fresh, chopped)</li>
+<li>1/2 teaspoon vanilla extract</li>
+<li>2 tablespoons lime juice</li>
+<li>1/4 cup powdered sugar </li>
+<li>Garnish: zest of 1 lime</li>
+  </ul> </h5>
+<h4>Instuctions</h4>
+<ol> <h5>
+<li>Gather the ingredients.</li>
+<li>Cut the oranges and grapefruit into small pieces. Make sure to remove as much of the pith and outer membranes. It will look prettier and taste better this way. </li>
+<li>Whisk together the freshly squeezed lime juice, vanilla extract, and powdered sugar.  If you have vanilla sugar that can be substituted for the powdered sugar and vanilla extract.  Just use 1/4 cup of vanilla sugar. </li>
+<li>refrigerator, covered for about twenty minutes before serving. </li>
+<li>Serve the fruit salad with vanilla yogurt.  You can use greek or regular.  Zest a lime and garnish individual bowls with the lime zest. </li>
+  </ol> </h5>
+</body>
+</p>
+    <script src="script.js"></script>
+  </body>
+</html>
