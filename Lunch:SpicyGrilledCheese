@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head> 
+<body>
+<p>
+<h1>Spicy Grilled Cheese </h1>
+<h4>Burn your face off with flavor with the ultimate spicy grilled cheese sandwich with jalapenos, sriracha, and pepperjack cheese.
+</h4>
+  <div style="width:100%;">
+  <table>
+    <tr>
+        <th class="leftCell"></th>
+        <th class="rightCell"></th>
+    </tr>
+    <tr>
+    <td class="leftCell"> 
+ <h4>Ingredients</h4>    
+<h5>
+<ul>
+<li> tablespoon olive oil</li>
+<li>1 white onion sliced</li>
+<li>3 tablespoons sriracha divided</li>
+<li>2 jalapenos sliced</li>
+<li>4 tablespoons softened butter</li>
+<li>8 slices bread</li>
+<li>12 slices pepper jack cheese </li>
+<li>1 cup crumbled jalapeno potato chips </li>
+  </ul> </h5>
+<h4>Instuctions</h4>
+<ol> <h5>
+<li>Heat olive oil in a medium-sized skillet, or griddle over medium-high heat. Add in onions and 2 tablespoons sriracha. Saute onions until soften and translucent, about 5 to 7 minutes. Remove onions from pan and set aside. (optional) toast jalapeno slices for 1 to 2 minutes.</li>
+<li>In a small bowl, mix together butter and remaining 1 tablespoon sriracha. Butter both sides of all 8 pieces of bread. Grill bread on a griddle over medium heat until 1 side of each piece is browned and toasted.</li>
+<li>Assemble the sandwiches with the one toasted side up, on the inside of the sandwich. Assemble with 1 slice of pepper jack, some of the sriracha onions, another slice of pepper jack cheese, jalapeno slices and crumbled jalapeno chips, topped with a final slice of pepper jack cheese. Place the top piece of bread with the toasted side down.</li>
+<li>Grill until the outside pieces of bread are toasted and the cheese is melted, flipping halfway through.</li></h5> </ol>
+ <h4>Nutrition Information</h4> 
+ <h5>Calories: 725kcal  Carbohydrates: 42g  Protein: 28g  Fat: 50g  Saturated Fat: 25g  Cholesterol: 104mg  Sodium: 1201mg  Potassium: 590mg  Fiber: 3g  Sugar: 5g  Vitamin A: 21.7%  Vitamin C: 26.2%  Calcium: 71.9%  Iron: 16.8%</h5>
+    </td>  
+  <td class="rightCell">
+<img src="https://gimmedelicious.com/wp-content/uploads/2016/07/avocado-toast-7-of-13.jpg" alt="Avocado Toast" height="500" width="450">
+     </td> 
+    </tr>
+</table>
+  </p>
+  <p class="footnote"> Recipe taken from <a target="_blank"href="https://thestayathomechef.com/the-ultimate-spicy-grilled-cheese/" > TheStayAtHomeChef </a>.</p>
+    <script src="script.js"></script>
+  </body>
+</html>
