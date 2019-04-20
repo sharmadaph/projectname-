@@ -69,7 +69,7 @@ h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
   display: block;
 }
 
-.Sropdown-content a:hover {background-color: #ddd;}
+.Dropdown-content a:hover {background-color: #ddd;}
 
 .dropdown:hover .Dropdown-content {display: block;}
 
