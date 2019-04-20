@@ -53,7 +53,7 @@ h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
   display: inline-block;
 }
 
-.dropdown-content {
+.Dropdown-content {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
@@ -62,16 +62,16 @@ h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
   z-index: 1;
 }
 
-.dropdown-content a {
+.Dropdown-content a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.Sropdown-content a:hover {background-color: #ddd;}
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .Dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
