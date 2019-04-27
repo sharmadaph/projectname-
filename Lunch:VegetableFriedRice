@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+<p>
+   <p class="footnote"> <a target="_blank"href="https://sharmadaph.github.io/projectname-/" > HOME </a></p>
+<h1>Cobb Salad</h1>
+<h4> Vegetable fried rice is a Chinese takeout comfort food that's easy to make at home! It is healthy and tasty at the same time. It's easy, and has a ton of flavor that balsts in the mouth. 
+</h4>
+ <div style="width:100%;">
+  <table>
+    <tr>
+        <th class="leftCell"></th>
+        <th class="rightCell"></th>
+    </tr>
+    <tr>
+    <td class="leftCell"> <h4>Ingredients</h4>
+<h5>
+<ul>
+<li>3 cups of cooked white or brown rice leftover rice is perfect! </li>
+<li>1 tablespoon vegetable oil divided use </li>
+<li>1/2 cup finely chopped onion </li>
+<li>1/2cup chopped carrots </li>
+<li>1/2 cup chopped red bell pepper </li>
+<li>1/2 cup frozen peas </li>
+<li>2 teaspoons minced garlic </li>
+<li>2 eggs lightly beaten </li>
+<li>3 tablespoons soy sauce or more to taste </li>
+<li>1 tablespoon toasted sesame oil </li>
+<li>salt and pepper to taste </li>
+<li>optional: sliced green onions for garnish </li>
+  </ul> </h5>
+<h4>Instuctions</h4>
+<ol> <h5>
+<li>In a large wok or skillet, heat 2 teaspoons of the vegetable oil over medium high heat.</li>
+<li>Add the onion and carrot to the pan, cook 3-5 minutes or until softened. Stir in the red bell pepper; cook 2-3 minutes more. Add the garlic and cook for 30 seconds.</li>
+<li>Season to taste with salt and pepper. Remove the vegetables from the pan, place them on a plate and cover to keep warm.  </li>
+<li>Pour the remaining teaspoon of oil into the pan; add the eggs and cook, stirring occasionally and breaking up with a spatula until the eggs are scrambled and cooked through. Season with salt and pepper.
+Add the rice, reserved cooked veggies and frozen peas to the pan. Stir in the soy sauce and sesame oil and mix gently until everything is thoroughly combined and warmed through, 3-4 minutes. Season to taste with salt and pepper, add more soy sauce if desired.
+Serve immediately, sprinkled with sliced green onions if desired.</li>
+<li>Add the rice, reserved cooked veggies and frozen peas to the pan. Stir in the soy sauce and sesame oil and mix gently until everything is thoroughly combined and warmed through, 3-4 minutes. Season to taste with salt and pepper, add more soy sauce if desired.</li>
+<li>Serve immediately, sprinkled with sliced green onions if desired. </li>
+  </ol> </h5>
+      <br> 
+ <h4>Nutrition Information</h4> 
+ <h5> Calories: 271kcal | Carbohydrates: 40g | Protein: 10g | Fat: 10g | Saturated Fat: 2g | Cholesterol: 93mg | Sodium: 784mg | Fiber: 4g | Sugar: 6g|</h5>
+    </td>
+  <td class="rightCell">
+      <img src="https://www.dinneratthezoo.com/wp-content/uploads/2016/10/veggie-fried-rice-6-683x1024.jpg" alt="Citrus Salad" height="500" width="400">
+ </td> 
+    </tr>
+</table>
+</body>
+</p>
+</table>
+  </p>
+  <p class="footnote"> Recipe taken from <a target="_blank"href="https://www.dinneratthezoo.com/veggie-fried-rice/" > DINNERATTHEZoo </a>.</p>
+    <script src="script.js"></script>
+  </body>
+</html>
