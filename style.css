@@ -98,6 +98,9 @@ h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
 }
 
 .button {
-  font-size: 120%;
-  color: green;
-
+  font-family: Arial;
+  color: #fafafa;
+  font-size: 27px;
+  padding: 19px;
+  text-decoration: none;
+}
