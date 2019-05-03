@@ -1,6 +1,9 @@
 
 h1 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+h1 {text-align:center;
+}
+
 h4 {font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
