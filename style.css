@@ -81,7 +81,7 @@ h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 .rightCell{
-  width:30%;
+  width:45%;
   height:25%;
   float:right;
   padding:6px;
@@ -90,7 +90,7 @@ h5 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
   
 }
 .leftCell{
-  width:60%;
+  width:45%;
   height:25%;
   float:left;
   padding:6px;
